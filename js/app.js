@@ -7,9 +7,6 @@
 		el: "#app",
 		data: {
 			list: [
-				{ text: "11", status: true },
-				{ text: "222", status: true },
-				{ text: "333", status: false },
 			],
 			newItem: '',
 			updateIndex: '',
